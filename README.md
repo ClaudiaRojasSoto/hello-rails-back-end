@@ -8,6 +8,7 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 hello\_rails\_back\_end ](#-hello_rails_back_end-)
+  - [💻 link to back end ](#-link-to-back-end-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,6 +30,14 @@
 # 📖 hello_rails_back_end <a name="about-project"></a>
 
 **hello_rails_back_end** The backend for this project is built using Ruby on Rails as an API. It's a simple API connected to a PostgreSQL database designed for storing greeting messages. The API has a single endpoint which randomly selects one of these messages to send to the frontend.
+
+
+## 💻 link to back end <a name="built-with"></a>
+
+
+[Link to Front End](https://github.com/ClaudiaRojasSoto/hello-react-front-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,9 +63,6 @@
 
 - [x] **Ruby on Rails and React Integration**
 - [x] **API Endpoint for Random Greetings**
-- [x] **React Router for Navigation**
-- [x] **Redux State Management**
-- [x] **Static View as Root**
 - [x] **Professional Documentation**
 - [x] **Linting for Code Quality**
 - [x] **Postgres Database**

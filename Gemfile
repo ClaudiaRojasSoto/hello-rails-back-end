@@ -7,6 +7,8 @@ gem 'rails', '~> 7.1.1'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+gem 'rack-cors'
+
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 
